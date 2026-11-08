@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /exchequer-quiz/
+Sitemap: https://maxmaxrouge-rgb.github.io/exchequer-quiz/sitemap.xml
